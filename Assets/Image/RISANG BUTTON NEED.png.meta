@@ -1,0 +1,4037 @@
+fileFormatVersion: 2
+guid: b84b698662551364dbebbab113122281
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RISANG BUTTON NEED_0
+    21300002: RISANG BUTTON NEED_1
+    21300004: RISANG BUTTON NEED_2
+    21300006: RISANG BUTTON NEED_3
+    21300008: RISANG BUTTON NEED_4
+    21300010: RISANG BUTTON NEED_5
+    21300012: RISANG BUTTON NEED_6
+    21300014: RISANG BUTTON NEED_7
+    21300016: RISANG BUTTON NEED_8
+    21300018: RISANG BUTTON NEED_9
+    21300020: RISANG BUTTON NEED_10
+    21300022: RISANG BUTTON NEED_11
+    21300024: RISANG BUTTON NEED_12
+    21300026: RISANG BUTTON NEED_13
+    21300028: RISANG BUTTON NEED_14
+    21300030: RISANG BUTTON NEED_15
+    21300032: RISANG BUTTON NEED_16
+    21300034: RISANG BUTTON NEED_17
+    21300036: RISANG BUTTON NEED_18
+    21300038: RISANG BUTTON NEED_19
+    21300040: RISANG BUTTON NEED_20
+    21300042: RISANG BUTTON NEED_21
+    21300044: RISANG BUTTON NEED_22
+    21300046: RISANG BUTTON NEED_23
+    21300048: RISANG BUTTON NEED_24
+    21300050: RISANG BUTTON NEED_25
+    21300052: RISANG BUTTON NEED_26
+    21300054: RISANG BUTTON NEED_27
+    21300056: RISANG BUTTON NEED_28
+    21300058: RISANG BUTTON NEED_29
+    21300060: RISANG BUTTON NEED_30
+    21300062: RISANG BUTTON NEED_31
+    21300064: RISANG BUTTON NEED_32
+    21300066: RISANG BUTTON NEED_33
+    21300068: RISANG BUTTON NEED_34
+    21300070: RISANG BUTTON NEED_35
+    21300072: RISANG BUTTON NEED_36
+    21300074: RISANG BUTTON NEED_37
+    21300076: RISANG BUTTON NEED_38
+    21300078: RISANG BUTTON NEED_39
+    21300080: RISANG BUTTON NEED_40
+    21300082: RISANG BUTTON NEED_41
+    21300084: RISANG BUTTON NEED_42
+    21300086: RISANG BUTTON NEED_43
+    21300088: RISANG BUTTON NEED_44
+    21300090: RISANG BUTTON NEED_45
+    21300092: RISANG BUTTON NEED_46
+    21300094: RISANG BUTTON NEED_47
+    21300096: RISANG BUTTON NEED_48
+    21300098: RISANG BUTTON NEED_49
+    21300100: RISANG BUTTON NEED_50
+    21300102: RISANG BUTTON NEED_51
+    21300104: RISANG BUTTON NEED_52
+    21300106: RISANG BUTTON NEED_53
+    21300108: RISANG BUTTON NEED_54
+    21300110: RISANG BUTTON NEED_55
+    21300112: RISANG BUTTON NEED_56
+    21300114: RISANG BUTTON NEED_57
+    21300116: RISANG BUTTON NEED_58
+    21300118: RISANG BUTTON NEED_59
+    21300120: RISANG BUTTON NEED_60
+    21300122: RISANG BUTTON NEED_61
+    21300124: RISANG BUTTON NEED_62
+    21300126: RISANG BUTTON NEED_63
+    21300128: RISANG BUTTON NEED_64
+    21300130: RISANG BUTTON NEED_65
+    21300132: RISANG BUTTON NEED_66
+    21300134: RISANG BUTTON NEED_67
+    21300136: RISANG BUTTON NEED_68
+    21300138: RISANG BUTTON NEED_69
+    21300140: RISANG BUTTON NEED_70
+    21300142: RISANG BUTTON NEED_71
+    21300144: RISANG BUTTON NEED_72
+    21300146: RISANG BUTTON NEED_73
+    21300148: RISANG BUTTON NEED_74
+    21300150: RISANG BUTTON NEED_75
+    21300152: RISANG BUTTON NEED_76
+    21300154: RISANG BUTTON NEED_77
+    21300156: RISANG BUTTON NEED_78
+    21300158: RISANG BUTTON NEED_79
+    21300160: RISANG BUTTON NEED_80
+    21300162: RISANG BUTTON NEED_81
+    21300164: RISANG BUTTON NEED_82
+    21300166: RISANG BUTTON NEED_83
+    21300168: RISANG BUTTON NEED_84
+    21300170: RISANG BUTTON NEED_85
+    21300172: RISANG BUTTON NEED_86
+    21300174: RISANG BUTTON NEED_87
+    21300176: RISANG BUTTON NEED_88
+    21300178: RISANG BUTTON NEED_89
+    21300180: RISANG BUTTON NEED_90
+    21300182: RISANG BUTTON NEED_91
+    21300184: RISANG BUTTON NEED_92
+    21300186: RISANG BUTTON NEED_93
+    21300188: RISANG BUTTON NEED_94
+    21300190: RISANG BUTTON NEED_95
+    21300192: RISANG BUTTON NEED_96
+    21300194: RISANG BUTTON NEED_97
+    21300196: RISANG BUTTON NEED_98
+    21300198: RISANG BUTTON NEED_99
+    21300200: RISANG BUTTON NEED_100
+    21300202: RISANG BUTTON NEED_101
+    21300204: RISANG BUTTON NEED_102
+    21300206: RISANG BUTTON NEED_103
+    21300208: RISANG BUTTON NEED_104
+    21300210: RISANG BUTTON NEED_105
+    21300212: RISANG BUTTON NEED_106
+    21300214: RISANG BUTTON NEED_107
+    21300216: RISANG BUTTON NEED_108
+    21300218: RISANG BUTTON NEED_109
+    21300220: RISANG BUTTON NEED_110
+    21300222: RISANG BUTTON NEED_111
+    21300224: RISANG BUTTON NEED_112
+    21300226: RISANG BUTTON NEED_113
+    21300228: RISANG BUTTON NEED_114
+    21300230: RISANG BUTTON NEED_115
+    21300232: RISANG BUTTON NEED_116
+    21300234: RISANG BUTTON NEED_117
+    21300236: RISANG BUTTON NEED_118
+    21300238: RISANG BUTTON NEED_119
+    21300240: RISANG BUTTON NEED_120
+    21300242: RISANG BUTTON NEED_121
+    21300244: RISANG BUTTON NEED_122
+    21300246: RISANG BUTTON NEED_123
+    21300248: RISANG BUTTON NEED_124
+    21300250: RISANG BUTTON NEED_125
+    21300252: RISANG BUTTON NEED_126
+    21300254: RISANG BUTTON NEED_127
+    21300256: RISANG BUTTON NEED_128
+    21300258: RISANG BUTTON NEED_129
+    21300260: RISANG BUTTON NEED_130
+    21300262: RISANG BUTTON NEED_131
+    21300264: RISANG BUTTON NEED_132
+    21300266: RISANG BUTTON NEED_133
+    21300268: RISANG BUTTON NEED_134
+    21300270: RISANG BUTTON NEED_135
+    21300272: RISANG BUTTON NEED_136
+    21300274: RISANG BUTTON NEED_137
+    21300276: RISANG BUTTON NEED_138
+    21300278: RISANG BUTTON NEED_139
+    21300280: RISANG BUTTON NEED_140
+    21300282: RISANG BUTTON NEED_141
+    21300284: RISANG BUTTON NEED_142
+    21300286: RISANG BUTTON NEED_143
+    21300288: RISANG BUTTON NEED_144
+    21300290: RISANG BUTTON NEED_145
+    21300292: RISANG BUTTON NEED_146
+    21300294: RISANG BUTTON NEED_147
+    21300296: RISANG BUTTON NEED_148
+    21300298: RISANG BUTTON NEED_149
+    21300300: RISANG BUTTON NEED_150
+    21300302: RISANG BUTTON NEED_151
+    21300304: RISANG BUTTON NEED_152
+    21300306: RISANG BUTTON NEED_153
+    21300308: RISANG BUTTON NEED_154
+    21300310: RISANG BUTTON NEED_155
+    21300312: RISANG BUTTON NEED_156
+    21300314: RISANG BUTTON NEED_157
+    21300316: RISANG BUTTON NEED_158
+    21300318: RISANG BUTTON NEED_159
+    21300320: RISANG BUTTON NEED_160
+    21300322: RISANG BUTTON NEED_161
+    21300324: RISANG BUTTON NEED_162
+    21300326: RISANG BUTTON NEED_163
+    21300328: RISANG BUTTON NEED_164
+    21300330: RISANG BUTTON NEED_165
+    21300332: RISANG BUTTON NEED_166
+    21300334: RISANG BUTTON NEED_167
+    21300336: RISANG BUTTON NEED_168
+    21300338: RISANG BUTTON NEED_169
+    21300340: RISANG BUTTON NEED_170
+    21300342: RISANG BUTTON NEED_171
+    21300344: RISANG BUTTON NEED_172
+    21300346: RISANG BUTTON NEED_173
+    21300348: RISANG BUTTON NEED_174
+    21300350: RISANG BUTTON NEED_175
+    21300352: RISANG BUTTON NEED_176
+    21300354: RISANG BUTTON NEED_177
+    21300356: RISANG BUTTON NEED_178
+    21300358: RISANG BUTTON NEED_179
+    21300360: RISANG BUTTON NEED_180
+    21300362: RISANG BUTTON NEED_181
+    21300364: RISANG BUTTON NEED_182
+    21300366: RISANG BUTTON NEED_183
+    21300368: RISANG BUTTON NEED_184
+    21300370: RISANG BUTTON NEED_185
+    21300372: RISANG BUTTON NEED_186
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4148
+        width: 445
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39dca23b14baa649a9ef08485729543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4148
+        width: 317
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b561a52c70c78842912f607b23f80af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4148
+        width: 315
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e14594d366984d8da2a48e290e767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_3
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 4148
+        width: 317
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf2d6b62f5c8544b05518746adda3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3975
+        width: 317
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e8bc3fd9c82f478341ed4f5b78e33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3975
+        width: 317
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61deeccab1dc7bc4aa8ba41660af9a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3975
+        width: 315
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a72607a0dacb149b701ced51386352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_7
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 3975
+        width: 317
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc178a50f698ae34fba5ba73e6196d26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3801
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1bdd0e2645326438f4656133dcb0ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3801
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec705d7015ed44984604a7f01cb5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3801
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131473f20a4276c488727a4dcf5bb169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3801
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cbf4deda37ea04b8fec9022b1d2117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3801
+        width: 156
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4451f880e0f604d8dc0d4794c611da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3612
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c842d1ec3f7c3f47bacccd067e588cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3612
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e32ae3ce6e8e4ca79b52123acbf65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3612
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef878368b5f82c459b74d454b6ca689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3612
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba13b4dcb74e244bf3a852463ed737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_17
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3612
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d160608371fc443975f6becd8e9f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3612
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84e8e4f8ba8584cbec3e9af1e9b489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_19
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3612
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e758d961a579469f21903ae1c174c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_20
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3612
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110e446b73d3f04882e66c25244c45e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3429
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242ab2c3aa1954418daf16b233aaabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3429
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564301ab8489ffe4392b8742a8e91b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3429
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2053d68b241df8b4e9e470a968142305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3429
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcafb32ca4ac2b4787d762355da9553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_25
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3437
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74f7938f896f84d8ffb0a327e75d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_26
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3437
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da179f7043b08c4b8280257582fb998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_27
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3437
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd893021cc858e499e59d566c5f0a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_28
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3437
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e691373185ae48b2724eee70bd93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3254
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722814a10e03d2846b0a732c0436fb25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3254
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263580a2581d0842a908d56f9aaaf40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3254
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1ea5caf05dda44ba36ce7a1e856bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3254
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec06f100e4e79f4cbc4eb719c4f298e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_33
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3258
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201b54accecf0142b8c2d3f234ba48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_34
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3258
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64e93ed7bbb0e4e809ac92ff6533d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_35
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3258
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d3670372032a4e9629f14e374bd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_36
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3258
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661f537b586e7144af617c51d8650b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3086
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95009a060a95fe8419f6605ad3cb3af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3086
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea21eba83ab8fe34a930758cf827c65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3086
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c1043827d5674484859957df6fad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3086
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1bc5c86b0633644b6c3037909615cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_41
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3088
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405d8b261c6d4f41a398127ebc06b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_42
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3088
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cef4feeeac664aa364a658ccde1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_43
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3088
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d70656d7907944a236bd6b47df953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_44
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3088
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0643e2cfb1bcf4383abd4e407f6dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2918
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd44c0211ffaf940b681063fd5e2587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2918
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea93270e638ae4ca8231544e496597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2918
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727c5b4c207df241ad22fb86fd76f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2918
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8347e749606b488465da9a1d21769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_49
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2920
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451bb6d92052df6449cf0efaf3b4ef12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_50
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2920
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b244e54829a8429c04f934483c342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_51
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2920
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8b8160fdd1264ba44e6c2d56196b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_52
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2920
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988e546be4a5b4438c134160eb41afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2744
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13289d683419cff489bb617fe6e20e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed1d3299464294a92f63dd652aff65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b117e4311ebb40a1380a27b9f0475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06d8a34cb581e4eb186d38147e55d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504b76b085d60d498277cb253ec2e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_58
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6c17532e681a146b79d95521a2ea0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_59
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2744
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ef47a38923134f8770bee1fcfd636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_60
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2744
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cddffe1951b844d8ff120e7371f71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2576
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776622471928867418ce8e5684ded123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2576
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38d383308213044891f80dc66830a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2576
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e2b239b5185247856c0bdbdf27734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2576
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de0721d13cf484e82bc59a2c6b0d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_65
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2578
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520240fbf103f844b5daed9b0ba8c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_66
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2578
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b91b67402b73649b70a133278ac3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_67
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2578
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544376701b16db544b807d3e29be2ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_68
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2578
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375a1dc20d070c4f9350eb0aab8d111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2409
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f116fd7cb6afe488b17fb507d84368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881495d8452a154fb489cb608386832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_71
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef15bac0278774690e9e8e575f003b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_72
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e86eb3b5072194997dd222d5f896e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_73
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792529863d670704cb24aa69401bccff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_74
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82505facc008905439f55666e2d7cbde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_75
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2409
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04bd2f7c4608047bd5ad09ad620735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_76
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2409
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b8783d14aaa04dbb4545a84c5ae25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2229
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352e028c635ca744a4b60bfae9eaaf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2229
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dbd33460d08de47b038cbfc66e521a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_79
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2229
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5cdaf74045a34b95fe1af4f9f9b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_80
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2229
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ea00d1d81c9744932a723f5c8aab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_81
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2233
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7476eaf394411ac4a8e1f3681609eb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_82
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2233
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ede812574ea4b45a7098eea194290a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_83
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2233
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd241e184ec1074aa003275d78a6d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_84
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2233
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0907c89fc2034fa51ecb7cb8286ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4616e2fe1d504dbeb3add87000ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2065
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c41c678e532a94da642e58afb1dde8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_87
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2065
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb737c79bcc75e4084e99fa38e9c268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_88
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2065
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d6fb56190798479ad5c027a09395a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_89
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2063
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f99e195aa5bbd48b3a9b32811a0391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_90
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2063
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b1a732325fa148ac87362d88939ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_91
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2063
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37539e562598d0340955e045620f3801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_92
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2063
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aec5880becfc8429e02144e7bcf7de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff1445e73d17b4a802a5cc1f51602a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_94
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc4d6dce969d846bf478d9ffe70385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_95
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc77b973f6510548b872fe7f195b0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_96
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83961562b71f33e459d3cffea9be25e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_97
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bacd3cd92280640bd16b661c7be35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_98
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626531fe23fcd4749a6af1772c83ac94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_99
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1897
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84e3e582514aa48b3ab53e090b9864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_100
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1897
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f754b579b76e47922796a2867a1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1726
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28428e210bee4408eca5205254b72e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a88bba308e749848850d80237b8ff63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_103
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b90fcbd69e69544a7f2853069df499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_104
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0dc7c1ce4a3024480738ac000973dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_105
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef789944a0a52a64288d72e3ea5ef173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_106
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5a49ac35270e84297921b7a327b499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_107
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1726
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5fd8e5ca9cee941850164f9272a729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_108
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1726
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ba416453bc5441aee735fa32f4e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe4c77c6bec1624db9943331bbf5b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_110
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1550
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb7a6da25788a48bb5acfa7ca8f9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_111
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1550
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683a9de839ca3e4996c37a3ef702fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_112
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1550
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc3bafe4fe7ed4ebee139875b58b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_113
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1556
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30956ede7479e6c4d9d5674d292cce48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_114
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1556
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efeb0e7b9191584bb50b8ca3656fb52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_115
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1556
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076457739fd3275439ab13b7ecfa484c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_116
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1556
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6c2d22e21573429309b7ccc99ff7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176b66ea0df9f84ba33d9917114e6c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_118
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1376
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab02ac8cfdc93498a4cb93c0ec0ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_119
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1376
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ec6f7598fdce043859ce1e8edb79f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_120
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1376
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd35a3e5c59fd74087df65e81d00863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_121
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1375
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428f8994f7bfd944b8d1f6db18c3e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_122
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1375
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd9aaae07fa3c441a4599051698e39e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_123
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1375
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54716f9f31206cb45b0b93ffac4e1d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_124
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1375
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802c868cd9fcb249bc7942871861539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912fcb9ab2ed6f641b9e9f8fe215ae94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1203
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c0a70dbcbe254391ba48642aadaac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_127
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1203
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497359e129de76a47952056a748eb15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_128
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1203
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525b6097de94c648a41178b0bf4019b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_129
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1203
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4447df0258504fac1d99cb4b2a505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_130
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1203
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f9f1c7c9cedb4f9af01508204c9a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_131
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1203
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43f4164dc424648ae8f7e448fa9c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_132
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1203
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9679d2b13a2e633428f3e448aed047dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9043f0f16232449a23290c2085a9e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_134
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1031
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37eca15cbf56444931cb05c371b590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_135
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1031
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea348e25ec05f104697ec00366843024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_136
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1031
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59901ac8fb179c745a9ca4163c2fcd0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_137
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1029
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9c920555b87244874dab54b576ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_138
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1029
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffdb0b053b51644784904156b876e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_139
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1029
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a188a8dc63bb4ebdf02124f7d477c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_140
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1029
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b201e48a817af4393bf76629f156fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc559f87d431147afa830ea573db1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_142
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 859
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844c37b9c8d8f449901161c575f5b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_143
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 859
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3bf12d09e1f841bd776f25ce7a41c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_144
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 859
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01f3c2ea7a61044b094959b5021690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_145
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 861
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614094b7e29b2549a0492d6a21b310d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_146
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 861
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f13906fc8f10249852df3d5159e6f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_147
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 861
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947850e45dde1854ba22e6322ef779ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_148
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 861
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efcdb7272531904d884a162b08475e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde248f3f2c339479c00cc5f0fe84d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_150
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffda41be156832409b01c87daf87dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_151
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c913730218d404aa9d653987a7957e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_152
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed637a98d09e7af419b3f2a504f3ff74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_153
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313722d9e8f371b4b8a0771598250700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_154
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd878c1a615c36488ac36b8c3a6cdba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_155
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 691
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b139b55d63b7c444a89e1f660edcebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_156
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 691
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852e6c7688e65447b1d3e6a7cdcde41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e3e9f86c47c6b4a8eaa74995c61007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_158
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 512
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4359114a6ab2f4a9903c4a772f627d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_159
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 512
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25269c4503739549a2f97a30928af46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_160
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 512
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292610156139c66479aadf9e3cfbbef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_161
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 510
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb19db26f5692148ae8cf4555844d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_162
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 510
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce9ddc2515c5b42b1da0a3114c953c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_163
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 510
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c481cc8a0d3e24f9110f753f7676f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_164
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 510
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82deb3397dcd926438d162bb12b64153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f5e3ce58068145b4b17849f9e03b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_166
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 335
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d6f5a172e6e846bfc1c68b26ad45e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 335
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebde301351570468f0f685ac93d1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_168
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 335
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3edba697bf10e4cb1b3c8a540e9527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_169
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 344
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c97a8acbc7bca4da4c7ad010cf2981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_170
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 344
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908ab667d6906b4f9d0257e742f981b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_171
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 344
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53284aa9321469344b7ac394c891557a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_172
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 344
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef306c440379d854e8b061b83bd9d1f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8ecc2299b4a44abe5f3c2b6360071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_174
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 167
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a991141bd1b6044fa861ba0f3ac8559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_175
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 167
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405840533d21c31418a69dd1bd09ed29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_176
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 167
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bdbb631e064cc45b05085693ea5336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_177
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 171
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8f9b172eaba749a6333d945403ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_178
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 171
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59554964d11dc489bc2b7c7b003bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_179
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 171
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787fbe7873df9f846acd360d3be911d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_180
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 171
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84088acd8ad5e6a4d9d180b5feff8d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf418bdf36032f04c9f9b3ded48c2d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_182
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 323
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56a66198e3ac448be22e1a7d9f5061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_183
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 279
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b4ad09a385394099c955847447806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_184
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 272
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ffb835a4e6a3c49a8cbace1b6669b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_185
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 321
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067acfec7056a0146ae2143c21001cdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RISANG BUTTON NEED_186
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de63b5129ea69641968dccd613b18f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4cf962a8b0c5aed47b8d2b0831c9410c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

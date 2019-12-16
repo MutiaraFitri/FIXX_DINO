@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: de29b2fbc9d48ac48a82ae51e7172799
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MAIN MENU COLLECTION_0
+    21300002: MAIN MENU COLLECTION_1
+    21300004: MAIN MENU COLLECTION_2
+    21300006: MAIN MENU COLLECTION_3
+    21300008: MAIN MENU COLLECTION_4
+    21300010: MAIN MENU COLLECTION_5
+    21300012: MAIN MENU COLLECTION_6
+    21300014: MAIN MENU COLLECTION_7
+    21300016: MAIN MENU COLLECTION_8
+    21300018: MAIN MENU COLLECTION_9
+    21300020: MAIN MENU COLLECTION_10
+    21300022: MAIN MENU COLLECTION_11
+    21300024: MAIN MENU COLLECTION_12
+    21300026: MAIN MENU COLLECTION_13
+    21300028: MAIN MENU COLLECTION_14
+    21300030: MAIN MENU COLLECTION_15
+    21300032: MAIN MENU COLLECTION_16
+    21300034: MAIN MENU COLLECTION_17
+    21300036: MAIN MENU COLLECTION_18
+    21300038: MAIN MENU COLLECTION_19
+    21300040: MAIN MENU COLLECTION_20
+    21300042: MAIN MENU COLLECTION_21
+    21300044: MAIN MENU COLLECTION_22
+    21300046: MAIN MENU COLLECTION_23
+    21300048: MAIN MENU COLLECTION_24
+    21300050: MAIN MENU COLLECTION_25
+    21300052: MAIN MENU COLLECTION_26
+    21300054: MAIN MENU COLLECTION_27
+    21300056: MAIN MENU COLLECTION_28
+    21300058: MAIN MENU COLLECTION_29
+    21300060: MAIN MENU COLLECTION_30
+    21300062: MAIN MENU COLLECTION_31
+    21300064: MAIN MENU COLLECTION_32
+    21300066: MAIN MENU COLLECTION_33
+    21300068: MAIN MENU COLLECTION_34
+    21300070: MAIN MENU COLLECTION_35
+    21300072: MAIN MENU COLLECTION_36
+    21300074: MAIN MENU COLLECTION_37
+    21300076: MAIN MENU COLLECTION_38
+    21300078: MAIN MENU COLLECTION_39
+    21300080: MAIN MENU COLLECTION_40
+    21300082: MAIN MENU COLLECTION_41
+    21300084: MAIN MENU COLLECTION_42
+    21300086: MAIN MENU COLLECTION_43
+    21300088: MAIN MENU COLLECTION_44
+    21300090: MAIN MENU COLLECTION_45
+    21300092: MAIN MENU COLLECTION_46
+    21300094: MAIN MENU COLLECTION_47
+    21300096: MAIN MENU COLLECTION_48
+    21300098: MAIN MENU COLLECTION_49
+    21300100: MAIN MENU COLLECTION_50
+    21300102: MAIN MENU COLLECTION_51
+    21300104: MAIN MENU COLLECTION_52
+    21300106: MAIN MENU COLLECTION_53
+    21300108: MAIN MENU COLLECTION_54
+    21300110: MAIN MENU COLLECTION_55
+    21300112: MAIN MENU COLLECTION_56
+    21300114: MAIN MENU COLLECTION_57
+    21300116: MAIN MENU COLLECTION_58
+    21300118: MAIN MENU COLLECTION_59
+    21300120: MAIN MENU COLLECTION_60
+    21300122: MAIN MENU COLLECTION_61
+    21300124: MAIN MENU COLLECTION_62
+    21300126: MAIN MENU COLLECTION_63
+    21300128: MAIN MENU COLLECTION_64
+    21300130: MAIN MENU COLLECTION_65
+    21300132: MAIN MENU COLLECTION_66
+    21300134: MAIN MENU COLLECTION_67
+    21300136: MAIN MENU COLLECTION_68
+    21300138: MAIN MENU COLLECTION_69
+    21300140: MAIN MENU COLLECTION_70
+    21300142: MAIN MENU COLLECTION_71
+    21300144: MAIN MENU COLLECTION_72
+    21300146: MAIN MENU COLLECTION_73
+    21300148: MAIN MENU COLLECTION_74
+    21300150: MAIN MENU COLLECTION_75
+    21300152: MAIN MENU COLLECTION_76
+    21300154: MAIN MENU COLLECTION_77
+    21300156: MAIN MENU COLLECTION_78
+    21300158: MAIN MENU COLLECTION_79
+    21300160: MAIN MENU COLLECTION_80
+    21300162: MAIN MENU COLLECTION_81
+    21300164: MAIN MENU COLLECTION_82
+    21300166: MAIN MENU COLLECTION_83
+    21300168: MAIN MENU COLLECTION_84
+    21300170: MAIN MENU COLLECTION_85
+    21300172: MAIN MENU COLLECTION_86
+    21300174: MAIN MENU COLLECTION_87
+    21300176: MAIN MENU COLLECTION_88
+    21300178: MAIN MENU COLLECTION_89
+    21300180: MAIN MENU COLLECTION_90
+    21300182: MAIN MENU COLLECTION_91
+    21300184: MAIN MENU COLLECTION_92
+    21300186: MAIN MENU COLLECTION_93
+    21300188: MAIN MENU COLLECTION_94
+    21300190: MAIN MENU COLLECTION_95
+    21300192: MAIN MENU COLLECTION_96
+    21300194: MAIN MENU COLLECTION_97
+    21300196: MAIN MENU COLLECTION_98
+    21300198: MAIN MENU COLLECTION_99
+    21300200: MAIN MENU COLLECTION_100
+    21300202: MAIN MENU COLLECTION_101
+    21300204: MAIN MENU COLLECTION_102
+    21300206: MAIN MENU COLLECTION_103
+    21300208: MAIN MENU COLLECTION_104
+    21300210: MAIN MENU COLLECTION_105
+    21300212: MAIN MENU COLLECTION_106
+    21300214: MAIN MENU COLLECTION_107
+    21300216: MAIN MENU COLLECTION_108
+    21300218: MAIN MENU COLLECTION_109
+    21300220: MAIN MENU COLLECTION_110
+    21300222: MAIN MENU COLLECTION_111
+    21300224: MAIN MENU COLLECTION_112
+    21300226: MAIN MENU COLLECTION_113
+    21300228: MAIN MENU COLLECTION_114
+    21300230: MAIN MENU COLLECTION_115
+    21300232: MAIN MENU COLLECTION_116
+    21300234: MAIN MENU COLLECTION_117
+    21300236: MAIN MENU COLLECTION_118
+    21300238: MAIN MENU COLLECTION_119
+    21300240: MAIN MENU COLLECTION_120
+    21300242: MAIN MENU COLLECTION_121
+    21300244: MAIN MENU COLLECTION_122
+    21300246: MAIN MENU COLLECTION_123
+    21300248: MAIN MENU COLLECTION_124
+    21300250: MAIN MENU COLLECTION_125
+    21300252: MAIN MENU COLLECTION_126
+    21300254: MAIN MENU COLLECTION_127
+    21300256: MAIN MENU COLLECTION_128
+    21300258: MAIN MENU COLLECTION_129
+    21300260: MAIN MENU COLLECTION_130
+    21300262: MAIN MENU COLLECTION_131
+    21300264: MAIN MENU COLLECTION_132
+    21300266: MAIN MENU COLLECTION_133
+    21300268: MAIN MENU COLLECTION_134
+    21300270: MAIN MENU COLLECTION_135
+    21300272: MAIN MENU COLLECTION_136
+    21300274: MAIN MENU COLLECTION_137
+    21300276: MAIN MENU COLLECTION_138
+    21300278: MAIN MENU COLLECTION_139
+    21300280: MAIN MENU COLLECTION_140
+    21300282: MAIN MENU COLLECTION_141
+    21300284: MAIN MENU COLLECTION_142
+    21300286: MAIN MENU COLLECTION_143
+    21300288: MAIN MENU COLLECTION_144
+    21300290: MAIN MENU COLLECTION_145
+    21300292: MAIN MENU COLLECTION_146
+    21300294: MAIN MENU COLLECTION_147
+    21300296: MAIN MENU COLLECTION_148
+    21300298: MAIN MENU COLLECTION_149
+    21300300: MAIN MENU COLLECTION_150
+    21300302: MAIN MENU COLLECTION_151
+    21300304: MAIN MENU COLLECTION_152
+    21300306: MAIN MENU COLLECTION_153
+    21300308: MAIN MENU COLLECTION_154
+    21300310: MAIN MENU COLLECTION_155
+    21300312: MAIN MENU COLLECTION_156
+    21300314: MAIN MENU COLLECTION_157
+    21300316: MAIN MENU COLLECTION_158
+    21300318: MAIN MENU COLLECTION_159
+    21300320: MAIN MENU COLLECTION_160
+    21300322: MAIN MENU COLLECTION_161
+    21300324: MAIN MENU COLLECTION_162
+    21300326: MAIN MENU COLLECTION_163
+    21300328: MAIN MENU COLLECTION_164
+    21300330: MAIN MENU COLLECTION_165
+    21300332: MAIN MENU COLLECTION_166
+    21300334: MAIN MENU COLLECTION_167
+    21300336: MAIN MENU COLLECTION_168
+    21300338: MAIN MENU COLLECTION_169
+    21300340: MAIN MENU COLLECTION_170
+    21300342: MAIN MENU COLLECTION_171
+    21300344: MAIN MENU COLLECTION_172
+    21300346: MAIN MENU COLLECTION_173
+    21300348: MAIN MENU COLLECTION_174
+    21300350: MAIN MENU COLLECTION_175
+    21300352: MAIN MENU COLLECTION_176
+    21300354: MAIN MENU COLLECTION_177
+    21300356: MAIN MENU COLLECTION_178
+    21300358: MAIN MENU COLLECTION_179
+    21300360: MAIN MENU COLLECTION_180
+    21300362: MAIN MENU COLLECTION_181
+    21300364: MAIN MENU COLLECTION_182
+    21300366: MAIN MENU COLLECTION_183
+    21300368: MAIN MENU COLLECTION_184
+    21300370: MAIN MENU COLLECTION_185
+    21300372: MAIN MENU COLLECTION_186
+    21300374: MAIN MENU COLLECTION_187
+    21300376: MAIN MENU COLLECTION_188
+    21300378: MAIN MENU COLLECTION_189
+    21300380: MAIN MENU COLLECTION_190
+    21300382: MAIN MENU COLLECTION_191
+    21300384: MAIN MENU COLLECTION_192
+    21300386: MAIN MENU COLLECTION_193
+    21300388: MAIN MENU COLLECTION_194
+    21300390: MAIN MENU COLLECTION_195
+    21300392: MAIN MENU COLLECTION_196
+    21300394: MAIN MENU COLLECTION_197
+    21300396: MAIN MENU COLLECTION_198
+    21300398: MAIN MENU COLLECTION_199
+    21300400: MAIN MENU COLLECTION_200
+    21300402: MAIN MENU COLLECTION_201
+    21300404: MAIN MENU COLLECTION_202
+    21300406: MAIN MENU COLLECTION_203
+    21300408: MAIN MENU COLLECTION_204
+    21300410: MAIN MENU COLLECTION_205
+    21300412: MAIN MENU COLLECTION_206
+    21300414: MAIN MENU COLLECTION_207
+    21300416: MAIN MENU COLLECTION_208
+    21300418: MAIN MENU COLLECTION_209
+    21300420: MAIN MENU COLLECTION_210
+    21300422: MAIN MENU COLLECTION_211
+    21300424: MAIN MENU COLLECTION_212
+    21300426: MAIN MENU COLLECTION_213
+    21300428: MAIN MENU COLLECTION_214
+    21300430: MAIN MENU COLLECTION_215
+    21300432: MAIN MENU COLLECTION_216
+    21300434: MAIN MENU COLLECTION_217
+    21300436: MAIN MENU COLLECTION_218
+    21300438: MAIN MENU COLLECTION_219
+    21300440: MAIN MENU COLLECTION_220
+    21300442: MAIN MENU COLLECTION_221
+    21300444: MAIN MENU COLLECTION_222
+    21300446: MAIN MENU COLLECTION_223
+    21300448: MAIN MENU COLLECTION_224
+    21300450: MAIN MENU COLLECTION_225
+    21300452: MAIN MENU COLLECTION_226
+    21300454: MAIN MENU COLLECTION_227
+    21300456: MAIN MENU COLLECTION_228
+    21300458: MAIN MENU COLLECTION_229
+    21300460: MAIN MENU COLLECTION_230
+    21300462: MAIN MENU COLLECTION_231
+    21300464: MAIN MENU COLLECTION_232
+    21300466: MAIN MENU COLLECTION_233
+    21300468: MAIN MENU COLLECTION_234
+    21300470: MAIN MENU COLLECTION_235
+    21300472: MAIN MENU COLLECTION_236
+    21300474: MAIN MENU COLLECTION_237
+    21300476: MAIN MENU COLLECTION_238
+    21300478: MAIN MENU COLLECTION_239
+    21300480: MAIN MENU COLLECTION_240
+    21300482: MAIN MENU COLLECTION_241
+    21300484: MAIN MENU COLLECTION_242
+    21300486: MAIN MENU COLLECTION_243
+    21300488: MAIN MENU COLLECTION_244
+    21300490: MAIN MENU COLLECTION_245
+    21300492: MAIN MENU COLLECTION_246
+    21300494: MAIN MENU COLLECTION_247
+    21300496: MAIN MENU COLLECTION_248
+    21300498: MAIN MENU COLLECTION_249
+    21300500: MAIN MENU COLLECTION_250
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea27ccd51fa8c47a1691b60c6dbc13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1016
+        width: 312
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a974bfb71d2fc4ca9058728338a286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1016
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b9f34be43c64459098b21e6da44cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c18b1b7940034485cd485322a9a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 796
+        width: 312
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6403b5cb69ce2e84fb319da410d799be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 796
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bebc2ca9eb2f04aa81f0eaeb27a735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2913f152c5cc46a4d121c6fda4bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 564
+        width: 312
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c870c126aee70245a3fa9ad7e74a715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 564
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d63271b4ee1e48479338a6f27bc3608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1cefb418b74604cb9b6f2eabb2def4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 312
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6a7da1673f8349b0ace9ae0d053f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 322
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d741b1ce1182ff44a6bfad45632d678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 417
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d7ed69974bbd4cb8d56940cf754d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU COLLECTION_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 448
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3a59b5a14cf14fb6dca7765033943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a26946690974564e8305d0f25ad2cf1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
