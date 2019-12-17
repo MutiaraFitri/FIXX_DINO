@@ -18,15 +18,28 @@ public class CameraController : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if(player.transform.position.x>-64 && player.transform.position.x<165.3f){
-            transform.position = new Vector3(player.transform.position.x+offset,transform.position.y,transform.position.z);
+        if (GlobalScript.Instance.isHutan)
+        {
+            if (player.transform.position.x > -64 && player.transform.position.x < 165.3f)
+            {
+                transform.position = new Vector3(player.transform.position.x + offset, transform.position.y, transform.position.z);
+            }
+        }
+        if (GlobalScript.Instance.isSea)
+        {
+            if (player.transform.position.x > -64 && player.transform.position.x <318.49f)
+            {
+                transform.position = new Vector3(player.transform.position.x + offset, transform.position.y, transform.position.z);
+            }
         }
     }
 
-    public void resetLocation(float x){
-        if(babi!=0){
-            x=babi;
+    public void resetLocation(float x)
+    {
+        if (babi != 0)
+        {
+            x = babi;
         }
-            transform.position = new Vector3(-55.95f+x,0,-10f);
+        transform.position = new Vector3(-55.95f + x, 0, -10f);
     }
 }
